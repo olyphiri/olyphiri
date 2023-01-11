@@ -8,3 +8,4 @@
 olyphiri/olyphiri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+<a href="https://app.daily.dev/petsooo"><img src="https://api.daily.dev/devcards/86172217167c4447947a5aafb6deb361.png?r=2f9" width="400" alt="PETER PHIRI's Dev Card"/></a>
