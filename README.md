@@ -12,4 +12,16 @@ You can click the Preview link to take a look at your changes.
 <a rect xmlns="http://www.w3.org/2000/svg" data-testid="card-bg" x="0.5" y="0.5" rx="4.5" height="99%" stroke="#e4e2e2" width="349" fill="#151515" stroke-opacity="1"/>
 
 <a href="https://app.daily.dev/petsooo"><img src="https://api.daily.dev/devcards/86172217167c4447947a5aafb6deb361.png?r=we0" width="400" alt="PETER PHIRI's Dev Card"/></a>
-[![<Your Name>'s GitHub stats](https://github-readme-stats.vercel.app/api?username=<your-github-username>&show_icons=true&theme=radical)](https://github.com/<your-github-username>)
+# Clone this project
+$ git clone https://github.com/maurodesouza/profile-readme-generator
+
+# Access
+$ cd profile-readme-generator
+
+# Install dependencies
+$ yarn
+
+# Run the project
+$ yarn dev
+
+# The server will initialize in the <http://localhost:3000>
