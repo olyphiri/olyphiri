@@ -22,11 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=olyphiri&show_icons=true&locale=en" alt="olyphiri" /></p>
 
-<details>
-<summary>More...</summary>
-<p align="center">
-<a href="https://github.com/[Olyphiri]/github-readme-streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?userolyphiri ]&theme=dark"/>
-</a>
-</p>
-</details>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=olyphiri&theme=material-palenight&hide_border=true&border_radius=4.7&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
